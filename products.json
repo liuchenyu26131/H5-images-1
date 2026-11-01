@@ -2623,5 +2623,39 @@
   "specs": [],
   "soldout": false,
   "presale": null
+ },
+ {
+  "id": 105,
+  "name": "定制PS燕窝酸代灌胶囊",
+  "price": "210",
+  "ratio": 0.71,
+  "main": "3/images/84_定制PS燕窝酸代灌胶囊/84_定制PS燕窝酸代灌胶囊_主图_.png",
+  "main_thumb": "3/images/84_定制PS燕窝酸代灌胶囊/主图_thumb.jpg",
+  "images": [
+   "3/images/84_定制PS燕窝酸代灌胶囊/84_定制PS燕窝酸代灌胶囊_主图_.png",
+   "3/images/84_定制PS燕窝酸代灌胶囊/外包装图.jpg",
+   "3/images/84_定制PS燕窝酸代灌胶囊/磷脂酰丝氨酸 COA 20250801 批(1)_页面_1.jpg",
+   "3/images/84_定制PS燕窝酸代灌胶囊/磷脂酰丝氨酸 COA 20250801 批(1)_页面_2.jpg"
+  ],
+  "use": [
+   {
+    "text": "使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#84-detail"
+   }
+  ],
+  "articles": [
+   {
+    "text": "简单科普 · Ai总结科普仅供参考",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#84-simple"
+   }
+  ],
+  "buy": [],
+  "direct": "https://huangsuning.yuanchu.cloud/goods/9288989",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null,
+  "specs": [],
+  "soldout": false,
+  "presale": null
  }
 ]
