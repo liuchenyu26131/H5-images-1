@@ -175,33 +175,33 @@
  {
   "id": 6,
   "name": "活性B族全套原料粉 · 代灌胶囊 · 酒石酸胆碱",
-  "price": "65-160",
+  "price": "25-160",
   "ratio": 0.71,
   "main": "1/images/06_活性B族全套原料粉 · 代灌胶囊/主图.png",
   "main_thumb": "1/images/06_活性B族全套原料粉 · 代灌胶囊/主图_thumb.jpg",
   "images": [
    "1/images/06_活性B族全套原料粉 · 代灌胶囊/主图.png",
-   "1/images/06_活性B族全套原料粉 · 代灌胶囊/活性B族代灌胶囊_规格与成分表.png",
+   "1/images/06_活性B族全套原料粉 · 代灌胶囊/活性B族胶囊_成分表_1119新版_20260922.jpg",
    "1/images/06_活性B族全套原料粉 · 代灌胶囊/活性B族原料粉_规格与成分表.jpg",
    "1/images/06_活性B族全套原料粉 · 代灌胶囊/酒石酸胆碱_外包装.jpg",
    "1/images/06_活性B族全套原料粉 · 代灌胶囊/酒石酸胆碱_规格与成分表.png"
   ],
   "use": [
    {
-    "text": "A版使用说明",
-    "url": "https://sps.yy-gp.com/hjrv6/i.html#711-detail"
+    "text": "A版（含烟酰胺）使用说明.Ai功用科普.成分表等",
+    "url": "https://sps.yy-gp.com/h9d8w/i.html#s=P003:1"
    },
    {
-    "text": "B版使用说明",
-    "url": "https://sps.yy-gp.com/hjrv6/i.html#712-detail"
+    "text": "B版（含烟酸）使用说明.Ai功用科普.成分表等",
+    "url": "https://sps.yy-gp.com/h9d8w/i.html#s=P004:1"
    },
    {
-    "text": "胶囊使用说明",
-    "url": "https://sps.yy-gp.com/hjrv6/i.html#713-detail"
+    "text": "胶囊（0922版）使用说明.Ai功用科普.成分表等",
+    "url": "https://sps.yy-gp.com/h9d8w/i.html#s=P128:2"
    },
    {
-    "text": "酒石酸胆碱使用说明",
-    "url": "https://sps.yy-gp.com/hjrv6/i.html#714-detail"
+    "text": "酒石酸胆碱原料粉.使用说明.Ai功用科普.成分表等",
+    "url": "https://sps.yy-gp.com/h9d8w/i.html#s=P040:1"
    }
   ],
   "articles": [],
@@ -2651,6 +2651,33 @@
   ],
   "buy": [],
   "direct": "https://huangsuning.yuanchu.cloud/goods/9288989",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null,
+  "specs": [],
+  "soldout": false,
+  "presale": null
+ },
+ {
+  "id": 106,
+  "name": "MSM定制代灌胶囊",
+  "price": "55",
+  "ratio": 0.71,
+  "main": "2/images/85_MSM代灌胶囊/msm 代灌胶囊_主图.png",
+  "main_thumb": "2/images/85_MSM代灌胶囊/主图_thumb.jpg",
+  "images": [
+   "2/images/85_MSM代灌胶囊/msm 代灌胶囊_主图.png",
+   "2/images/85_MSM代灌胶囊/msm 代灌胶囊_外观图.jpg"
+  ],
+  "use": [
+   {
+    "text": "MSM 定制代灌胶囊 使用说明.Ai功用科普.成分表等",
+    "url": "https://sps.yy-gp.com/h9d8w/i.html#s=P127:1"
+   }
+  ],
+  "articles": [],
+  "buy": [],
+  "direct": "https://huangsuning.yuanchu.cloud/goods/9288990",
   "science_qr": [],
   "qr_tips": {},
   "contact": null,
